@@ -5,7 +5,7 @@ The majority of these projects are my solution to the book ***A collection of Da
 
 Please **DON'T** contact me for the book and/or the dataset.
 
-This repository is only for self-learning purpose. I am glad if my solution is helpful. Yet, I will **NOT** provide the original book or the data files. If you would like to practice, please visit <https://datamasked.com/>.
+This repository is only for self-learning and demonstration purpose. I am glad if my solution is helpful. Yet, I will **NOT** provide the original book or the data files. If you would like to practice, please visit <https://datamasked.com/>.
 
 Part I. My solution to the book ***A collection of Data Science Take-Home Challenges*** <br>
 Project 1: [Conversion rate](https://veronica0206.github.io/DS_Project_Sample/1.Conversion_rate.html) <br>
