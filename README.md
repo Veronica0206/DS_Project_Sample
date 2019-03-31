@@ -1,4 +1,4 @@
-# DS_Project_Sample
+# Machine Learning Project Demo 
 Machine Learning Project Sample Using R
 
 The majority of these projects are my solution to the book ***A collection of Data Science Take-Home Challenges***.
