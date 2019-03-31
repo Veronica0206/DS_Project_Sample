@@ -9,4 +9,8 @@ This repository is only for self-learning and demonstration purpose. I am glad i
 
 Part I. My solution to the book ***A collection of Data Science Take-Home Challenges*** <br>
 Project 1: [Conversion rate](https://veronica0206.github.io/DS_Project_Sample/1.Conversion_rate.html) <br>
-Project 2: [Spanish Translation A/B Test](https://veronica0206.github.io/DS_Project_Sample/2.Spanish_Translation_A_B_test.html)<br>
+Project 2: [Spanish Translation A/B Test](https://veronica0206.github.io/DS_Project_Sample/2.Spanish_Translation_A_B_test.html) <br>
+Project 3: [Employee Retention](https://veronica0206.github.io/DS_Project_Sample/3.Employee_Retention.html) <br>
+
+
+
