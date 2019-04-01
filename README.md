@@ -11,6 +11,12 @@ Part I. My solution to the book ***A collection of Data Science Take-Home Challe
 Project 1: [Conversion rate](https://veronica0206.github.io/DS_Project_Sample/1.Conversion_rate.html) <br>
 Project 2: [Spanish Translation A/B Test](https://veronica0206.github.io/DS_Project_Sample/2.Spanish_Translation_A_B_test.html) <br>
 Project 3: [Employee Retention](https://veronica0206.github.io/DS_Project_Sample/3.Employee_Retention.html) <br>
-
+Project 4: [Identifying Fraudulent Activities](https://veronica0206.github.io/DS_Project_Sample/4.Identifying_Fraudulent_Activities.html) <br>
+Project 5: [Funnel Analysis](https://veronica0206.github.io/DS_Project_Sample/5.Funnel_Analysis.html) <br>
+Project 6: [Pricing Analysis](https://veronica0206.github.io/DS_Project_Sample/6.Pricing_Analysis.html) <br>
+Project 7: [Marketing Email Campaign](https://veronica0206.github.io/DS_Project_Sample/7.Marketing_Email_Campaign.html) <br>
+Project 8: [Song Challenge](https://veronica0206.github.io/DS_Project_Sample/8.Song_Challenge.html) <br>
+Project 9: [Clustering Grocery Items](https://veronica0206.github.io/DS_Project_Sample/9.Clustering_Grocery_Items.html) <br>
+Project 10: [Credit Card Transactions](https://veronica0206.github.io/DS_Project_Sample/10.Credit_Card_Transactions.html) <br>
 
 
