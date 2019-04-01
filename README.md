@@ -1,9 +1,5 @@
 # Machine Learning Project Demo 
 
-<style>
-body {
-text-align: justify}
-</style>
 
 ## Part I: Research Project in Machine Learning :relieved:
 ### Project 1: 
@@ -15,6 +11,7 @@ text-align: justify}
 
 **Code \& Output:** <br>
 [link:](https://nbviewer.jupyter.org/github/Veronica0206/DS_Project_Sample/blob/master/NG20_final.ipynb) <br>
+
 
 ## Part II. My solution to the book ***A collection of Data Science Take-Home Challenges*** <br>
 The projects in this part are my solution to the book ***A collection of Data Science Take-Home Challenges***.
