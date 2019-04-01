@@ -13,7 +13,7 @@
 [link:](https://nbviewer.jupyter.org/github/Veronica0206/DS_Project_Sample/blob/master/NG20_final.ipynb) <br>
 
 
-## Part II. My solution to the book ***A collection of Data Science Take-Home Challenges*** <br>
+## Part II. My solution to the book ***A collection of Data Science Take-Home Challenges*** using R :wink: <br> 
 The projects in this part are my solution to the book ***A collection of Data Science Take-Home Challenges***.
 
 Please **DON'T** contact me for the book and/or the dataset.
