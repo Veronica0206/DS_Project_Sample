@@ -6,7 +6,7 @@
 **Title:** Regularized Learning with Networks of Features (August 2017--February 2018) <br>
 
 **Description:** <br>
-- Constructed a regularized learning with a network of features to handle the issue of high-dimensional feature space but a limited number of labeled entries. This proposed framework, regularized by <a href="https://www.codecogs.com/eqnedit.php?latex=$L_{2}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$L_{2}$" title="$L_{2}$" /></a> norm and prior knowledge regarding the similarity of features, profoundly improved the accuracy of prediction. <br>
+- Built a regularized learning with a network of features to handle the issue of high-dimensional feature space but a limited number of labeled entries. This proposed framework, regularized by <a href="https://www.codecogs.com/eqnedit.php?latex=$L_{2}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$L_{2}$" title="$L_{2}$" /></a> norm and prior knowledge regarding the similarity of features, profoundly improved the accuracy of prediction. <br>
 - Implemented the model on 20 Newsgroups dataset and trained it through TensorFlow by minimizing the loss function. <br>
 
 **Code \& Output:** <br>
