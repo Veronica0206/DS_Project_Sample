@@ -1,6 +1,13 @@
 # Machine Learning Project Demo 
 
 ## Part I: Research Project in Machine Learning
+### Project 1: 
+**Title:** Regularized Learning with Networks of Features (August 2017--February 2018) <br>
+**Description:** <br>
+* Constructed a regularized learning with a network of features to handle the issue of high-dimensional feature space but a limited number of labeled entries. This proposed framework, regularized by $L_{2}$ norm and prior knowledge regarding the similarity of features, profoundly improved the accuracy of prediction. <br>
+* Implemented the model on 20 Newsgroups dataset and trained it through TensorFlow by minimizing the loss function. <br>
+**Code \& Output:** <br>
+[link:](https://nbviewer.jupyter.org/github/Veronica0206/DS_Project_Sample/blob/master/NG20_final.ipynb) <br>
 
 ## Part II. My solution to the book ***A collection of Data Science Take-Home Challenges*** <br>
 The projects in this part are my solution to the book ***A collection of Data Science Take-Home Challenges***.
