@@ -1,13 +1,14 @@
 # Machine Learning Project Demo 
-Machine Learning Project Sample Using R
 
-The majority of these projects are my solution to the book ***A collection of Data Science Take-Home Challenges***.
+## Part I: Research Project in Machine Learning
+
+## Part II. My solution to the book ***A collection of Data Science Take-Home Challenges*** <br>
+The projects in this part are my solution to the book ***A collection of Data Science Take-Home Challenges***.
 
 Please **DON'T** contact me for the book and/or the dataset.
 
 This repository is only for self-learning and demonstration purpose. I am glad if my solution is helpful. Yet, I will **NOT** provide the original book or the data files. If you would like to practice, please visit <https://datamasked.com/>.
 
-Part I. My solution to the book ***A collection of Data Science Take-Home Challenges*** <br>
 Project 1 (Predictive Model): [Conversion rate](https://veronica0206.github.io/DS_Project_Sample/1.Conversion_rate.html) <br>
 Project 2 (A/B testing): [Spanish Translation A/B Test](https://veronica0206.github.io/DS_Project_Sample/2.Spanish_Translation_A_B_test.html) <br>
 Project 3 (Predictive Model): [Employee Retention](https://veronica0206.github.io/DS_Project_Sample/3.Employee_Retention.html) <br>
