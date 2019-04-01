@@ -17,6 +17,6 @@ Project 6 (A/B test): [Pricing Analysis](https://veronica0206.github.io/DS_Proje
 Project 7 (Personalization): [Marketing Email Campaign](https://veronica0206.github.io/DS_Project_Sample/7.Marketing_Email_Campaign.html) <br>
 Project 8 (Recommendation System): [Song Challenge](https://veronica0206.github.io/DS_Project_Sample/8.Song_Challenge.html) <br>
 Project 9 (Clustering): [Clustering Grocery Items](https://veronica0206.github.io/DS_Project_Sample/9.Clustering_Grocery_Items.html) <br>
-Project 10 (Clustering): [Credit Card Transactions](https://veronica0206.github.io/DS_Project_Sample/10.Credit_Card_Transactions.html) <br>
+Project 10 (Clustering for detecting anomalies): [Credit Card Transactions](https://veronica0206.github.io/DS_Project_Sample/10.Credit_Card_Transactions.html) <br>
 
 
