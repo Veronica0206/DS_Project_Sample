@@ -10,7 +10,7 @@
 - Implemented the model on 20 Newsgroups dataset and trained it through TensorFlow by minimizing the loss function. <br>
 
 **Code \& Output:** <br>
-[link:](https://nbviewer.jupyter.org/github/Veronica0206/DS_Project_Sample/blob/master/NG20_final.ipynb) <br>
+[link](https://nbviewer.jupyter.org/github/Veronica0206/DS_Project_Sample/blob/master/NG20_final.ipynb) <br>
 
 
 ## Part II. My solution to the book ***A collection of Data Science Take-Home Challenges*** using R :wink: <br> 
