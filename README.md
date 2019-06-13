@@ -20,9 +20,9 @@ Please **DON'T** contact me for the book and/or the dataset.
 
 This repository is only for self-learning and demonstration purpose. I am glad if my solution is helpful. Yet, I will **NOT** provide the original book or the data files. If you would like to practice, please visit <https://datamasked.com/>.
 
-Project 1 (Predictive Model): [Conversion rate](https://veronica0206.github.io/DS_Project_Sample/1.Conversion_rate.html) <br>
-Project 2 (A/B testing): [Spanish Translation A/B Test](https://veronica0206.github.io/DS_Project_Sample/2.Spanish_Translation_A_B_test.html) <br>
-Project 3 (Predictive Model): [Employee Retention](https://veronica0206.github.io/DS_Project_Sample/3.Employee_Retention.html) <br>
+Project 1 (Predictive Model): [Conversion rate](https://github.com/Veronica0206/DS_Project_Sample/blob/master/1.Conversion_rate.md) <br>
+Project 2 (A/B testing): [Spanish Translation A/B Test](https://github.com/Veronica0206/DS_Project_Sample/blob/master/2.Spanish_Translation_A_B_test.md) <br>
+Project 3 (Predictive Model): [Employee Retention](https://github.com/Veronica0206/DS_Project_Sample/blob/master/3.Employee_Retention.md) <br>
 Project 4 (Predictive Model): [Identifying Fraudulent Activities](https://veronica0206.github.io/DS_Project_Sample/4.Identifying_Fraudulent_Activities.html) <br>
 Project 5 (Funnel Analysis): [Funnel Analysis](https://veronica0206.github.io/DS_Project_Sample/5.Funnel_Analysis.html) <br>
 Project 6 (A/B testing): [Pricing Analysis](https://veronica0206.github.io/DS_Project_Sample/6.Pricing_Analysis.html) <br>
