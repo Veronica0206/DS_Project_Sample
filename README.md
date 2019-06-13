@@ -24,7 +24,7 @@ Project 1 (Predictive Model): [Conversion rate](https://github.com/Veronica0206/
 Project 2 (A/B testing): [Spanish Translation A/B Test](https://github.com/Veronica0206/DS_Project_Sample/blob/master/2.Spanish_Translation_A_B_test.md) <br>
 Project 3 (Predictive Model): [Employee Retention](https://github.com/Veronica0206/DS_Project_Sample/blob/master/3.Employee_Retention.md) <br>
 Project 4 (Predictive Model): [Identifying Fraudulent Activities](https://veronica0206.github.io/DS_Project_Sample/4.Identifying_Fraudulent_Activities.html) <br>
-Project 5 (Funnel Analysis): [Funnel Analysis](https://veronica0206.github.io/DS_Project_Sample/5.Funnel_Analysis.html) <br>
+Project 5 (Funnel Analysis): [Funnel Analysis](https://github.com/Veronica0206/DS_Project_Sample/blob/master/5.Funnel_Analysis.md) <br>
 Project 6 (A/B testing): [Pricing Analysis](https://veronica0206.github.io/DS_Project_Sample/6.Pricing_Analysis.html) <br>
 Project 7 (Personalization): [Marketing Email Campaign](https://veronica0206.github.io/DS_Project_Sample/7.Marketing_Email_Campaign.html) <br>
 Project 8 (Recommendation System): [Song Challenge](https://veronica0206.github.io/DS_Project_Sample/8.Song_Challenge.html) <br>
