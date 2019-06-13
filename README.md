@@ -23,12 +23,12 @@ This repository is only for self-learning and demonstration purpose. I am glad i
 Project 1 (Predictive Model): [Conversion rate](https://github.com/Veronica0206/DS_Project_Sample/blob/master/1.Conversion_rate.md) <br>
 Project 2 (A/B testing): [Spanish Translation A/B Test](https://github.com/Veronica0206/DS_Project_Sample/blob/master/2.Spanish_Translation_A_B_test.md) <br>
 Project 3 (Predictive Model): [Employee Retention](https://github.com/Veronica0206/DS_Project_Sample/blob/master/3.Employee_Retention.md) <br>
-Project 4 (Predictive Model): [Identifying Fraudulent Activities](https://veronica0206.github.io/DS_Project_Sample/4.Identifying_Fraudulent_Activities.html) <br>
+Project 4 (Predictive Model): [Identifying Fraudulent Activities](https://github.com/Veronica0206/DS_Project_Sample/blob/master/4.Identifying_Fraudulent_Activities.md) <br>
 Project 5 (Funnel Analysis): [Funnel Analysis](https://github.com/Veronica0206/DS_Project_Sample/blob/master/5.Funnel_Analysis.md) <br>
-Project 6 (A/B testing): [Pricing Analysis](https://veronica0206.github.io/DS_Project_Sample/6.Pricing_Analysis.html) <br>
-Project 7 (Personalization): [Marketing Email Campaign](https://veronica0206.github.io/DS_Project_Sample/7.Marketing_Email_Campaign.html) <br>
-Project 8 (Recommendation System): [Song Challenge](https://veronica0206.github.io/DS_Project_Sample/8.Song_Challenge.html) <br>
-Project 9 (Clustering): [Clustering Grocery Items](https://veronica0206.github.io/DS_Project_Sample/9.Clustering_Grocery_Items.html) <br>
-Project 10 (Clustering for detecting anomalies): [Credit Card Transactions](https://veronica0206.github.io/DS_Project_Sample/10.Credit_Card_Transactions.html) <br>
+Project 6 (A/B testing): [Pricing Analysis](https://github.com/Veronica0206/DS_Project_Sample/blob/master/6.Pricing_Analysis.md) <br>
+Project 7 (Personalization): [Marketing Email Campaign](https://github.com/Veronica0206/DS_Project_Sample/blob/master/7.Marketing_Email_Campaign.md) <br>
+Project 8 (Recommendation System): [Song Challenge](https://github.com/Veronica0206/DS_Project_Sample/blob/master/8.Song_Challenge.md) <br>
+Project 9 (Clustering): [Clustering Grocery Items](https://github.com/Veronica0206/DS_Project_Sample/blob/master/9.Clustering_Grocery_Items.md) <br>
+Project 10 (Clustering for detecting anomalies): [Credit Card Transactions](https://github.com/Veronica0206/DS_Project_Sample/blob/master/10.Credit_Card_Transactions.md) <br>
 
 
