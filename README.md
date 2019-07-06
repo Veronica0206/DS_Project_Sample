@@ -30,6 +30,5 @@ Project 7 (Personalization): [Marketing Email Campaign](https://github.com/Veron
 Project 8 (Recommendation System): [Song Challenge](https://github.com/Veronica0206/DS_Project_Sample/blob/master/8.Song_Challenge.md) <br>
 Project 9 (Clustering): [Clustering Grocery Items](https://github.com/Veronica0206/DS_Project_Sample/blob/master/9.Clustering_Grocery_Items.md) <br>
 Project 10 (Clustering for detecting anomalies): [Credit Card Transactions](https://github.com/Veronica0206/DS_Project_Sample/blob/master/10.Credit_Card_Transactions.md) <br>
-Preject 11: [Marketing level A/B testing]: [User Referral Program]
-(https://github.com/Veronica0206/DS_Project_Sample/blob/master/11.User_Referral_Program.md) <br>
+Project 11 (Marketing level A/B testing): [User Referral Program](https://github.com/Veronica0206/DS_Project_Sample/blob/master/11.User_Referral_Program.md) <br>
 
