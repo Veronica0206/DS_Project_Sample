@@ -33,4 +33,5 @@ Project 10 (Clustering for Detecting Anomalies): [Credit Card Transactions](http
 Project 11 (Marketing level A/B Testing): [User Referral Program](https://github.com/Veronica0206/DS_Project_Sample/blob/master/11.User_Referral_Program.md) <br>
 Project 12 (Predictive Model with Training Loss function): [Loan Granting](https://github.com/Veronica0206/DS_Project_Sample/blob/master/12.Loan_Granting.md) <br>
 Project 13 (Cluster Analysis): [Json City Similarities](https://github.com/Veronica0206/DS_Project_Sample/blob/master/13.Json_City_Similarities.md) <br>
-
+Project 14 (Cluster Analysis): [Optimization of Employee Shuttle Stops](https://github.com/Veronica0206/DS_Project_Sample/blob/master/14.Optimization_of_Employee_Shuttle_Stops.md) <br>
+Project 16 (URL Parsing and Further Analysis): [URL Parsing Challenge](https://github.com/Veronica0206/DS_Project_Sample/blob/master/16.URL_Parsing_Challenge.md) <br>
