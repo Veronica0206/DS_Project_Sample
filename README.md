@@ -40,3 +40,4 @@ Project 18 (Cluster Analysis and Profile Analysis): [On-Line Video Challenge](ht
 
 ## Part III. My solution to the book ***A collection of Data Science Take-Home Challenges*** using Python :wink: <br> 
 Project 1 (Predictive Model): [Conversion rate](https://nbviewer.jupyter.org/github/Veronica0206/DS_Project_Sample/blob/master/1.Conversion%20Rate.ipynb) <br>
+Project 2 (A/B Testing): [Spanish Translation A/B Test](https://nbviewer.jupyter.org/github/Veronica0206/DS_Project_Sample/blob/master/2.Spanish%20Translation%20A%20B%20test.ipynb) <br>
