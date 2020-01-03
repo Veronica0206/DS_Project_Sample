@@ -47,4 +47,6 @@ Project 20 (Forcasting \& Clustering): [Ads Analysis](https://github.com/Veronic
 Project 1 (Predictive Model): [Conversion rate](https://github.com/Veronica0206/DS_Project_Sample/blob/master/1.Conversion%20Rate.ipynb) <br>
 Project 2 (A/B Testing): [Spanish Translation A/B Test](https://github.com/Veronica0206/DS_Project_Sample/blob/master/2.Spanish%20Translation%20A%20B%20test.ipynb) <br>
 Project 3 (Predictive Model): [Employee Retention](https://github.com/Veronica0206/DS_Project_Sample/blob/master/3.Employee%20Retention.ipynb) <br>
+Project 4 (Predictive Model): [Identifying Fraudulent Activities](https://github.com/Veronica0206/DS_Project_Sample/blob/master/4.Identifying%20Fraudulent%20Activities.ipynb) <br>
+
 </div>
