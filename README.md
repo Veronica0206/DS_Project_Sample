@@ -51,5 +51,6 @@ Project 4 (Predictive Model): [Identifying Fraudulent Activities](https://nbview
 Project 5 (Funnel Analysis): [Funnel Analysis](https://nbviewer.jupyter.org/github/Veronica0206/DS_Project_Sample/blob/master/5.Funnel%20Analysis.ipynb) <br>
 Project 6 (A/B Testing): [Pricing Analysis](https://nbviewer.jupyter.org/github/Veronica0206/DS_Project_Sample/blob/master/6.Pricing%20Analysis.ipynb) <br>
 Project 7 (Personalization): [Marketing Email Campaign](https://nbviewer.jupyter.org/github/Veronica0206/DS_Project_Sample/blob/master/7.Marketing%20Email%20Campaign.ipynb) <br>
+Project 8 (Recommendation System): [Song Challenge](https://nbviewer.jupyter.org/github/Veronica0206/DS_Project_Sample/blob/master/8.Song%20Challenge.ipynb) <br>
 
 </div>
