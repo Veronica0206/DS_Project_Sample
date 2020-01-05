@@ -44,13 +44,13 @@ Project 19 (Forecast Retention Rate \& Identify Factors Which Affect Retention R
 Project 20 (Forcasting \& Clustering): [Ads Analysis](https://github.com/Veronica0206/DS_Project_Sample/blob/master/20.Ads_Analysis.md) <br>
 
 ## Part III. My solution to the book ***A collection of Data Science Take-Home Challenges*** using Python :wink: <br> 
-Project 1 (Predictive Model): [Conversion rate](https://nbviewer.jupyter.org/github/Veronica0206/DS_Project_Sample/blob/master/1.Conversion%20Rate.ipynb) <br>
-Project 2 (A/B Testing): [Spanish Translation A/B Test](https://nbviewer.jupyter.org/github/Veronica0206/DS_Project_Sample/blob/master/2.Spanish%20Translation%20A%20B%20test.ipynb) <br>
-Project 3 (Predictive Model): [Employee Retention](https://nbviewer.jupyter.org/github/Veronica0206/DS_Project_Sample/blob/master/3.Employee%20Retention.ipynb) <br>
-Project 4 (Predictive Model): [Identifying Fraudulent Activities](https://nbviewer.jupyter.org/github/Veronica0206/DS_Project_Sample/blob/master/4.Identifying%20Fraudulent%20Activities.ipynb) <br>
-Project 5 (Funnel Analysis): [Funnel Analysis](https://nbviewer.jupyter.org/github/Veronica0206/DS_Project_Sample/blob/master/5.Funnel%20Analysis.ipynb) <br>
-Project 6 (A/B Testing): [Pricing Analysis](https://nbviewer.jupyter.org/github/Veronica0206/DS_Project_Sample/blob/master/6.Pricing%20Analysis.ipynb) <br>
-Project 7 (Personalization): [Marketing Email Campaign](https://nbviewer.jupyter.org/github/Veronica0206/DS_Project_Sample/blob/master/7.Marketing%20Email%20Campaign.ipynb) <br>
-Project 8 (Recommendation System): [Song Challenge](https://nbviewer.jupyter.org/github/Veronica0206/DS_Project_Sample/blob/master/8.Song%20Challenge.ipynb) <br>
+Project 1 (Predictive Model): [Conversion rate](https://github.com/Veronica0206/DS_Project_Sample/blob/master/1.Conversion%20Rate.ipynb) <br>
+Project 2 (A/B Testing): [Spanish Translation A/B Test](https://github/Veronica0206/DS_Project_Sample/blob/master/2.Spanish%20Translation%20A%20B%20test.ipynb) <br>
+Project 3 (Predictive Model): [Employee Retention](https://github/Veronica0206/DS_Project_Sample/blob/master/3.Employee%20Retention.ipynb) <br>
+Project 4 (Predictive Model): [Identifying Fraudulent Activities](https://github/Veronica0206/DS_Project_Sample/blob/master/4.Identifying%20Fraudulent%20Activities.ipynb) <br>
+Project 5 (Funnel Analysis): [Funnel Analysis](https://github/Veronica0206/DS_Project_Sample/blob/master/5.Funnel%20Analysis.ipynb) <br>
+Project 6 (A/B Testing): [Pricing Analysis](https://github/Veronica0206/DS_Project_Sample/blob/master/6.Pricing%20Analysis.ipynb) <br>
+Project 7 (Personalization): [Marketing Email Campaign](https://github/Veronica0206/DS_Project_Sample/blob/master/7.Marketing%20Email%20Campaign.ipynb) <br>
+Project 8 (Recommendation System): [Song Challenge](https://github/Veronica0206/DS_Project_Sample/blob/master/8.Song%20Challenge.ipynb) <br>
 
 </div>
