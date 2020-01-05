@@ -22,7 +22,7 @@ Please **DON'T** contact me for the book and/or the dataset.
 
 This repository is only for self-learning and demonstration purpose. I am glad if my solution is helpful. Yet, I will **NOT** provide the original book or the data files. If you would like to practice, please visit <https://datamasked.com/>.
 
-Project 1 (Predictive Model): [Conversion rate](https://github.com/Veronica0206/DS_Project_Sample/Conversion_rate.md) <br>
+Project 1 (Predictive Model): [Conversion rate](https://github.com/Veronica0206/DS_Project_Sample/blob/master/1.Conversion_rate.md) <br>
 Project 2 (A/B Testing): [Spanish Translation A/B Test](https://github.com/Veronica0206/DS_Project_Sample/blob/master/2.Spanish_Translation_A_B_test.md) <br>
 Project 3 (Predictive Model): [Employee Retention](https://github.com/Veronica0206/DS_Project_Sample/blob/master/3.Employee_Retention.md) <br>
 Project 4 (Predictive Model): [Identifying Fraudulent Activities](https://github.com/Veronica0206/DS_Project_Sample/blob/master/4.Identifying_Fraudulent_Activities.md) <br>
