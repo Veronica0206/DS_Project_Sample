@@ -50,6 +50,6 @@ Project 3 (Predictive Model): [Employee Retention](https://github.com/Veronica02
 Project 4 (Predictive Model): [Identifying Fraudulent Activities](https://github.com/Veronica0206/DS_Project_Sample/blob/master/4.Identifying%20Fraudulent%20Activities.ipynb) <br>
 Project 5 (Funnel Analysis): [Funnel Analysis](https://github.com/Veronica0206/DS_Project_Sample/blob/master/5.Funnel%20Analysis.ipynb) <br>
 Project 6 (A/B Testing): [Pricing Analysis](https://github.com/Veronica0206/DS_Project_Sample/blob/master/6.Pricing%20Analysis.ipynb) <br>
-Project 7 (Personalization): [Marketing Email Campaign]
-(https://github.com/Veronica0206/DS_Project_Sample/blob/master/7.Marketing%20Email%20Campaign.ipynb) <br>
+Project 7 (Personalization): [Marketing Email Campaign](https://github.com/Veronica0206/DS_Project_Sample/blob/master/7.Marketing%20Email%20Campaign.ipynb) <br>
+
 </div>
