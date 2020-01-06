@@ -52,5 +52,6 @@ Project 5 (Funnel Analysis): [Funnel Analysis](https://github.com/Veronica0206/D
 Project 6 (A/B Testing): [Pricing Analysis](https://github.com/Veronica0206/DS_Project_Sample/blob/master/6.Pricing%20Analysis.ipynb) <br>
 Project 7 (Personalization): [Marketing Email Campaign](https://github.com/Veronica0206/DS_Project_Sample/blob/master/7.Marketing%20Email%20Campaign.ipynb) <br>
 Project 8 (Recommendation System): [Song Challenge](https://github.com/Veronica0206/DS_Project_Sample/blob/master/8.Song%20Challenge.ipynb) <br>
+Project 9 (Clustering): [Clustering Grocery Items](https://github.com/Veronica0206/DS_Project_Sample/blob/master/9.Clustering%20Grocery%20Items.ipynb)
 
 </div>
