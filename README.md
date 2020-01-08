@@ -56,5 +56,7 @@ Project 9 (Clustering): [Clustering Grocery Items](https://github.com/Veronica02
 Project 10 (Clustering for Detecting Anomalies): [Credit Card Transactions](https://github.com/Veronica0206/DS_Project_Sample/blob/master/10.Credit%20Card%20Transactions.ipynb) <br>
 Project 11 (Marketing level A/B Testing): [User Referral Program](https://github.com/Veronica0206/DS_Project_Sample/blob/master/11.User%20Referral%20Program.ipynb) <br>
 Project 12 (Predictive Model with Training Loss function): [Loan Granting](https://github.com/Veronica0206/DS_Project_Sample/blob/master/12.Loan%20Granting.ipynb) <br>
+Project 13 (Cluster Analysis): [Json City Similarities](https://github.com/Veronica0206/DS_Project_Sample/blob/master/13.%20Json%20City%20Similarities.ipynb) <br>
+Project 14 (Cluster Analysis): [Optimization of Employee Shuttle Stops](https://github.com/Veronica0206/DS_Project_Sample/blob/master/14.Optimization%20of%20Employee%20Shuttle%20Stops.ipynb) <br>
 
 </div>
