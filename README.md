@@ -58,5 +58,7 @@ Project 11 (Marketing level A/B Testing): [User Referral Program](https://github
 Project 12 (Predictive Model with Training Loss function): [Loan Granting](https://github.com/Veronica0206/DS_Project_Sample/blob/master/12.Loan%20Granting.ipynb) <br>
 Project 13 (Cluster Analysis): [Json City Similarities](https://github.com/Veronica0206/DS_Project_Sample/blob/master/13.%20Json%20City%20Similarities.ipynb) <br>
 Project 14 (Cluster Analysis): [Optimization of Employee Shuttle Stops](https://github.com/Veronica0206/DS_Project_Sample/blob/master/14.Optimization%20of%20Employee%20Shuttle%20Stops.ipynb) <br>
+Project 15 (Predictive Model): [Diversity in the Workplace](https://github.com/Veronica0206/DS_Project_Sample/blob/master/15.Diversity%20in%20the%20Workplace.ipynb) <br>
+Project 16 (URL Parsing and Further Analysis): [URL Parsing Challenge](https://github.com/Veronica0206/DS_Project_Sample/blob/master/16.URL%20Parsing%20Challenge.ipynb) <br>
 
 </div>
