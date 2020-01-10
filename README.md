@@ -61,7 +61,7 @@ Project 14 (Cluster Analysis): [Optimization of Employee Shuttle Stops](https://
 Project 15 (Predictive Model): [Diversity in the Workplace](https://github.com/Veronica0206/DS_Project_Sample/blob/master/15.Diversity%20in%20the%20Workplace.ipynb) <br>
 Project 16 (URL Parsing and Further Analysis): [URL Parsing Challenge](https://github.com/Veronica0206/DS_Project_Sample/blob/master/16.URL%20Parsing%20Challenge.ipynb) <br>
 Project 17 (A/B Testing and Novelty Effects): [Engagement Test](https://github.com/Veronica0206/DS_Project_Sample/blob/master/17.Engagement%20Test.ipynb) <br>
-Project 18 (Cluster Analysis and Profile Analysis): [On-Line Video Challenge](https://github.com/Veronica0206/DS_Project_Sample/blob/master/18.On-Line%20Video%20Challenge.ipynb)
+Project 18 (Cluster Analysis and Profile Analysis): [On-Line Video Challenge](https://github.com/Veronica0206/DS_Project_Sample/blob/master/18.On-Line%20Video%20Challenge.ipynb) <br>
 Project 19 (Forecast Retention Rate \& Identify Factors Which Affect Retention Rate): [Subscription Retention Rate](https://github.com/Veronica0206/DS_Project_Sample/blob/master/19.Subscription%20Retention%20Rate.ipynb) <br>
 Project 20 (Forcasting \& Clustering): [Ads Analysis](https://github.com/Veronica0206/DS_Project_Sample/blob/master/20.Ads%20Analysis.ipynb) <br>
 
